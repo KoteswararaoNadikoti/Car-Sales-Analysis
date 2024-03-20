@@ -2,7 +2,7 @@
 
 <p align="center"><img width="100%" alt="Car Sales Analysis " src="https://raw.githubusercontent.com/KoteswararaoNadikoti/Car-Sales-Analysis/main/20240319_140929.jpg" /></p>
 
-[Video Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7165931639611596803/)
+[Video Presentation](https://www.linkedin.com/posts/koteswararaonadikotii_carsales-dataanalysis-automotiveinsights-activity-7176267900243124224-PEtz?utm_source=share&utm_medium=member_desktop)
 
 <br />
 
